@@ -1,0 +1,26 @@
+.filters {
+	display: block;
+	background-color: white;
+	height: 70px;
+	width: 100%;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+}
+
+.locations {
+	display: inline;
+	vertical-align: middle;
+	float: left;
+	height: 100%;
+	width: 25%;
+
+	line-height: 20px;
+	border-right: 1px solid #DDDDDD;
+}
+
+.filter_amenities {
+	display: inline;
+	vertical-align: middle;
+	height: 100%;
+	float: left;
+
